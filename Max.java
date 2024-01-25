@@ -82,5 +82,6 @@ public class Max {
 
 /*
  * Output:-
- * 
+ * 17
+ * 20
  */
